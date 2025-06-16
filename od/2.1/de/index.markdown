@@ -79,7 +79,7 @@ Die mit dem Werk verbundenen Rechte *müssen* für alle, an die es verteilt word
 
 #### 2.1.8 Anwendung auf jeden Zweck
 
-Die **Lizenz** *muss* die Nutzung, Weitergabe, Änderung und Zusammenstellung für jeden Zweck zu erlauben. Die Lizenz *darf* niemanden darin beschränken, das Werk für einen bestimmten Zweck zu verwenden.
+Die **Lizenz** *muss* die Nutzung, Weitergabe, Änderung und Zusammenstellung für jeden Zweck erlauben. Die Lizenz *darf* niemanden darin beschränken, das Werk für einen bestimmten Zweck zu verwenden.
 
 #### 2.1.9 Keine Gebühr
 
